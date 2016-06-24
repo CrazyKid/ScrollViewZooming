@@ -15,7 +15,6 @@
 		8E42974D1D19531900D0EEA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E42974B1D19531900D0EEA5 /* LaunchScreen.storyboard */; };
 		8E4297581D19531900D0EEA5 /* ScrollviewZoomingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E4297571D19531900D0EEA5 /* ScrollviewZoomingTests.m */; };
 		8E4297631D19531900D0EEA5 /* ScrollviewZoomingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E4297621D19531900D0EEA5 /* ScrollviewZoomingUITests.m */; };
-		8EF2A70C1D1B820E00A1DFC7 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8EF2A70B1D1B820E00A1DFC7 /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		8E42975E1D19531900D0EEA5 /* ScrollviewZoomingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrollviewZoomingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E4297621D19531900D0EEA5 /* ScrollviewZoomingUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollviewZoomingUITests.m; sourceTree = "<group>"; };
 		8E4297641D19531900D0EEA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EF2A70B1D1B820E00A1DFC7 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +105,6 @@
 				8E4297411D19531900D0EEA5 /* AppDelegate.m */,
 				8E4297431D19531900D0EEA5 /* ViewController.h */,
 				8E4297441D19531900D0EEA5 /* ViewController.m */,
-				8EF2A70B1D1B820E00A1DFC7 /* 1.jpg */,
 				8E4297461D19531900D0EEA5 /* Main.storyboard */,
 				8E4297491D19531900D0EEA5 /* Assets.xcassets */,
 				8E42974B1D19531900D0EEA5 /* LaunchScreen.storyboard */,
@@ -247,7 +244,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E42974D1D19531900D0EEA5 /* LaunchScreen.storyboard in Resources */,
-				8EF2A70C1D1B820E00A1DFC7 /* 1.jpg in Resources */,
 				8E42974A1D19531900D0EEA5 /* Assets.xcassets in Resources */,
 				8E4297481D19531900D0EEA5 /* Main.storyboard in Resources */,
 			);

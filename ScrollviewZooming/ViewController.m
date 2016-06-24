@@ -159,7 +159,6 @@
     else {
         [_scrollView setZoomScale:2 animated:YES];
     }
-    //    [self _resetViewFrame];
     
 }
 
